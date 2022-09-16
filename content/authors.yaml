@@ -1,0 +1,96 @@
+
+  - id: "0f2b-b7a7-9ee0"
+    web:
+      metaDescription: ""
+      metaTitle: "test new "
+      metaLinkText: "test new "
+      metaKeywords: null
+      pathPart: "test-new"
+      path: "/test-new/"
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: 141
+      listed: true
+    data:
+      featured: 1
+      name: "test new "
+  - id: "4a5d-308f-9eaa"
+    web:
+      metaDescription: ""
+      metaTitle: "Juan Perez"
+      metaLinkText: "Juan Perez"
+      metaKeywords: null
+      pathPart: "juan-perez"
+      path: "/blog/juan-perez/"
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/blog/"
+    meta:
+      sort: 134
+      listed: true
+    data:
+      featured: null
+      name: "Juan Perez"
+  - id: "272c-8550-0b13"
+    web:
+      metaDescription: ""
+      metaTitle: "Fred Nerk"
+      metaLinkText: "Fred Nerk"
+      metaKeywords: null
+      pathPart: "fred-nerk"
+      path: "/blog/fred-nerk/"
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/blog/"
+    meta:
+      sort: 133
+      listed: true
+    data:
+      featured: null
+      name: "Fred Nerk"
+  - id: "fde0-6c81-e9bf"
+    web:
+      metaDescription: ""
+      metaTitle: "Joe Bloggs"
+      metaLinkText: "Joe Bloggs"
+      metaKeywords: null
+      pathPart: "joe-bloggs"
+      path: "/blog/joe-bloggs/"
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/blog/"
+    meta:
+      sort: 132
+      listed: true
+    data:
+      featured: null
+      name: "Joe Bloggs"
+  - id: "7fdb-ab91-e3d1"
+    web:
+      metaDescription: ""
+      metaTitle: " Uncle Tom Cobley"
+      metaLinkText: " Uncle Tom Cobley"
+      metaKeywords: null
+      pathPart: "uncle-tom-cobley"
+      path: "/blog/uncle-tom-cobley/"
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/blog/"
+    meta:
+      sort: 131
+      listed: true
+    data:
+      featured: null
+      name: " Uncle Tom Cobley"

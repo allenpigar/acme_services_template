@@ -1,0 +1,51 @@
+
+  - id: "6006-f2a7-92aa"
+    web:
+      metaDescription: ""
+      metaTitle: "Another homepage "
+      metaLinkText: "Another homepage "
+      metaKeywords: null
+      pathPart: "another-homepage"
+      path: "/another-homepage/"
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: 142
+      listed: true
+    data:
+      demo_text: null
+      image: null
+      lead_in_sub_header: null
+      new_text: null
+      section_2_header: null
+      section_2_image: null
+      section_2_sub_header: null
+      title: "Another homepage "
+  - id: "fc2c-0b31-3fe2"
+    web:
+      metaDescription: "This is a Zesty.io demo page. Added more description."
+      metaTitle: "Home"
+      metaLinkText: "Home"
+      metaKeywords: null
+      pathPart: "not_zesty_home"
+      path: "/not_zesty_home/"
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: 1
+      listed: true
+    data:
+      demo_text: "This is some new text!"
+      image: "3-8df4c90-9n5w6"
+      lead_in_sub_header: "Building things on the web."
+      new_text: null
+      section_2_header: "Completely synergize via premier niche markets"
+      section_2_image: "3-8decaed-twsto"
+      section_2_sub_header: "Objectively innovate empowered manufactured products whereas parallel platforms. Holisticly predominate extensible testing procedures for reliable supply chains. "
+      title: "This is a BRAND new title!"
