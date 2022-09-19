@@ -1,5 +1,5 @@
 
-  - id: "375e-16e2-a4bb"
+  - id: "101b-5916-21d1"
     web:
       metaDescription: ""
       metaTitle: "Single Page Demo"
@@ -17,7 +17,7 @@
       listed: true
     data:
       title: "Categories Page"
-  - id: "f9bf-b53d-e710"
+  - id: "aff2-7b84-f033"
     web:
       metaDescription: ""
       metaTitle: "Demo 2"
@@ -35,7 +35,7 @@
       listed: true
     data:
       title: "Demo 2"
-  - id: "3c06-994e-0956"
+  - id: "2fc7-bc2a-f45e"
     web:
       metaDescription: ""
       metaTitle: "Another Page"
