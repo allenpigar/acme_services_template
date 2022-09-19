@@ -1,5 +1,5 @@
 
-  - id: "6006-f2a7-92aa"
+  - id: "352e-0b76-7f3e"
     web:
       metaDescription: ""
       metaTitle: "Another homepage "
@@ -24,7 +24,7 @@
       section_2_image: null
       section_2_sub_header: null
       title: "Another homepage "
-  - id: "fc2c-0b31-3fe2"
+  - id: "2e78-1bbb-eb7f"
     web:
       metaDescription: "This is a Zesty.io demo page. Added more description."
       metaTitle: "Home"
@@ -42,10 +42,10 @@
       listed: true
     data:
       demo_text: "This is some new text!"
-      image: "3-8df4c90-9n5w6"
+      image: "https://media-resolver.api.zesty.io/resolve/3-8df4c90-9n5w6/getimage/?w=500&h=500&type=fit"
       lead_in_sub_header: "Building things on the web."
       new_text: null
       section_2_header: "Completely synergize via premier niche markets"
-      section_2_image: "3-8decaed-twsto"
+      section_2_image: "https://media-resolver.api.zesty.io/resolve/3-8decaed-twsto/getimage/?w=500&h=500&type=fit"
       section_2_sub_header: "Objectively innovate empowered manufactured products whereas parallel platforms. Holisticly predominate extensible testing procedures for reliable supply chains. "
       title: "This is a BRAND new title!"

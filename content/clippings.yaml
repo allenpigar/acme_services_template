@@ -1,5 +1,5 @@
 
-  - id: "edfc-8edf-4c08"
+  - id: "a3fe-5c75-9d86"
     web:
       metaDescription: ""
       metaTitle: null
@@ -17,5 +17,5 @@
       listed: true
     data:
       footer_text: "A business services company."
-      logo: "3-8dec9ee-efqrr"
+      logo: "https://media-resolver.api.zesty.io/resolve/3-8dec9ee-efqrr/getimage/?w=500&h=500&type=fit"
       site_name: "Acme Services"
