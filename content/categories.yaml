@@ -1,5 +1,5 @@
 
-  - id: "f7cb-df84-3d6d"
+  - id: "09df-ae0c-639d"
     web:
       metaDescription: ""
       metaTitle: "Finances"
@@ -18,7 +18,7 @@
     data:
       name: "Finances"
       subtitle: null
-  - id: "0d9b-3113-45e8"
+  - id: "99d4-3133-2036"
     web:
       metaDescription: ""
       metaTitle: "New Category"
@@ -37,7 +37,7 @@
     data:
       name: "New Category TEST 4"
       subtitle: null
-  - id: "35fb-f214-ac54"
+  - id: "2285-34ac-f7e7"
     web:
       metaDescription: ""
       metaTitle: "Business"
@@ -56,7 +56,7 @@
     data:
       name: "Business"
       subtitle: null
-  - id: "2ac4-182a-0eb2"
+  - id: "f807-7913-a70f"
     web:
       metaDescription: ""
       metaTitle: "test"
@@ -75,7 +75,7 @@
     data:
       name: "test"
       subtitle: null
-  - id: "b0eb-c5ad-6c1c"
+  - id: "9a3c-e460-01e0"
     web:
       metaDescription: ""
       metaTitle: "Technology"
@@ -94,7 +94,7 @@
     data:
       name: "Tech"
       subtitle: null
-  - id: "db8b-af02-1c77"
+  - id: "722e-19ed-b959"
     web:
       metaDescription: ""
       metaTitle: "Finance"
